@@ -24,3 +24,9 @@ Python
 Beautifulsoup
 
 Pandas
+
+Inspired From
+
+Alex Olteanu
+
+Alex is a content author at Dataquest and writes courses on statistics and Python.
