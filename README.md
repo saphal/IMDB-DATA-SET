@@ -18,6 +18,9 @@ Critics rating (score out of 100)
 Movie Gross (millions of dollars)
 
 Software used
+
 Python
+
 Beautifulsoup
+
 Pandas
