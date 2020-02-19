@@ -2,7 +2,7 @@
 
 <h4>1. Installation</h4>
 
-<h4>2. Project Motivation<</h4>
+<h4>2. Project Motivation</h4>
 
 <h4>3. File Description</h4>
 
@@ -27,7 +27,7 @@ I would like to address following questions
 
 4. Film Rating vs Run time ?
 
-</h3>File Description</h3>
+<h3>File Description</h3>
 
 Ds_project.ipynb: Notebook containing the udacity data analysis.
 
@@ -35,7 +35,7 @@ movie_ratings.csv : data containing dataset of IMDB movies choosen from 1900-201
 
 Preparing-IMDB-DATA(1900-2019).ipynb : notebook containing web scrapping process to obtain data from IMDB website
 
-</h3>Results</h3>
+<h3>Results</h3>
 
 The main finding of this data anaylysis are :
 
@@ -52,8 +52,14 @@ The main finding of this data anaylysis are :
 
 6.Movie with run time of 125 min to 200 min has more votes
 
-</h3>Licensing/h3>
+<h3>Licensing/h3>
 
 Big thanks to Udacity for providing opportunity for this blog post. I would also like to thank IMDB for letting me scrap thier data
 from thier website. Otherwise, feel free to use the code here as you would like!
+
+<h3>Reference/h3>
+  Please see the link below 
+  https://www.kaggle.com/pysaphal/imdb-20002019-movie-data-set-over-
+  
+"https://www.imdb.com/search/title/?release_date=2019&sort=num_votes,desc&page=1"
 
