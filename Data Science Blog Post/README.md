@@ -52,13 +52,15 @@ The main finding of this data anaylysis are :
 
 6.Movie with run time of 125 min to 200 min has more votes
 
-<h3>Licensing/h3>
+<h3>Licensing</h3>
 
 Big thanks to Udacity for providing opportunity for this blog post. I would also like to thank IMDB for letting me scrap thier data
 from thier website. Otherwise, feel free to use the code here as you would like!
 
-<h3>Reference/h3>
+<h3>Reference</h3>
+
   Please see the link below 
+  
   https://www.kaggle.com/pysaphal/imdb-20002019-movie-data-set-over-
   
 "https://www.imdb.com/search/title/?release_date=2019&sort=num_votes,desc&page=1"
