@@ -1,14 +1,14 @@
 <h1>Table of Contents</h1>
 
-Installation 
+<h3>1. Installation</h3>
 
-Project Objective
+<h3>2. Project Motivation</h3>
 
-File Description
+3. File Description
 
-Results
+4. Results
 
-Licensing, Authors, and Acknowledgements
+5. Licensing, Authors, and Acknowledgements
 
 
 Installation
