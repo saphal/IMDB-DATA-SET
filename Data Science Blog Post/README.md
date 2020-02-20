@@ -32,7 +32,7 @@ I would like to address following questions
 
 <h3>File Description</h3>
 
-Ds_project.ipynb: Notebook containing the udacity data analysis.
+writing blog post.ipynb: Notebook containing the udacity data analysis.
 
 movie_ratings.csv : data containing dataset of IMDB movies choosen from 1900-2019(randomly)
 
