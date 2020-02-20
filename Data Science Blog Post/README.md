@@ -10,6 +10,9 @@
 
 <h4>5. Licensing, Authors, and Acknowledgements</h4>
 
+<h4>6. Blog Post</h4>
+
+
 
 <h3>Installation</h3>
 I would recommend to download annoconda on your machine and seabon library.
@@ -57,7 +60,12 @@ The main finding of this data anaylysis are :
 Big thanks to Udacity for providing opportunity for this blog post. I would also like to thank IMDB for letting me scrap thier data
 from thier website. Otherwise, feel free to use the code here as you would like!
 
+<h3>Blog Post</h3>
+
+Please find my blog post link here
+
 <h3>Reference</h3>
+
 
   Please see the link below 
   
