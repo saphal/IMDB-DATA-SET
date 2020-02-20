@@ -62,7 +62,7 @@ from thier website. Otherwise, feel free to use the code here as you would like!
 
 <h3>Blog Post</h3>
 
-Please find my blog post link here
+Please find my blog post link <a href ="https://medium.com/@franticarsenal/top-12-movies-wich-has-critics-score-of-100-out-of-100-aaf6e1165eac">here</a>
 
 <h3>Reference</h3>
 
